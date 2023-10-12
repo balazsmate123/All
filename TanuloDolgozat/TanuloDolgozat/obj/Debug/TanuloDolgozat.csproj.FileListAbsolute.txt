@@ -1,0 +1,8 @@
+C:\Users\bmáté\Desktop\Asztali alkalmazás\TanuloDolgozat\TanuloDolgozat\bin\Debug\TanuloDolgozat.exe.config
+C:\Users\bmáté\Desktop\Asztali alkalmazás\TanuloDolgozat\TanuloDolgozat\bin\Debug\TanuloDolgozat.exe
+C:\Users\bmáté\Desktop\Asztali alkalmazás\TanuloDolgozat\TanuloDolgozat\bin\Debug\TanuloDolgozat.pdb
+C:\Users\bmáté\Desktop\Asztali alkalmazás\TanuloDolgozat\TanuloDolgozat\obj\Debug\TanuloDolgozat.csproj.AssemblyReference.cache
+C:\Users\bmáté\Desktop\Asztali alkalmazás\TanuloDolgozat\TanuloDolgozat\obj\Debug\TanuloDolgozat.csproj.SuggestedBindingRedirects.cache
+C:\Users\bmáté\Desktop\Asztali alkalmazás\TanuloDolgozat\TanuloDolgozat\obj\Debug\TanuloDolgozat.csproj.CoreCompileInputs.cache
+C:\Users\bmáté\Desktop\Asztali alkalmazás\TanuloDolgozat\TanuloDolgozat\obj\Debug\TanuloDolgozat.exe
+C:\Users\bmáté\Desktop\Asztali alkalmazás\TanuloDolgozat\TanuloDolgozat\obj\Debug\TanuloDolgozat.pdb
